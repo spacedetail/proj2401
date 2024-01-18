@@ -33,7 +33,7 @@
 > > 
 > > (6)	Github 작성
 > > 
-> > (7) 발표: PPT + GitHub
+> > (7) 발표: PPT + GitHub + Intellij
 
 
 > 1월 25일(목) 6교시 –팀원
