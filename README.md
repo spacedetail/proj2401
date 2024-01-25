@@ -10,7 +10,7 @@
 
 > 2조 : 김원성, 김도원,  김태련
 >	> 주제: 요리 레시피 공유 사이트
->	>	> "만개의 레시피"
+>	>	> https://github.com/bobRichad/TeamKimFood
 
 >	>	>
 
