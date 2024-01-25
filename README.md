@@ -5,7 +5,7 @@
  #### 1. 프로젝트 팀 구성
 > 1조 : 이아름, 박은영, 허형석
 >	> 주제: Oneday Seed
->	>	> "프립(FRIP)" "솜씨당"
+>	>	> https://github.com/areum1111/onedaySeed/tree/main
 
 
 > 2조 : 김원성, 김도원,  김태련
