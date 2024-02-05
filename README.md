@@ -6,14 +6,18 @@
 > 1조 : 이아름, 박은영, 허형석
 >	> 주제: Oneday Seed
 >	>	> https://github.com/areum1111/onedaySeed/tree/main
+> > > 
 > > > http://www.onedayseed.store
+> > > 
 > > > http://169.254.152.255:8080
 > >
 > > 
 > 2조 : 김원성, 김도원,  김태련
 >	> 주제: 요리 레시피 공유 사이트
 >	>	> https://github.com/bobRichad/TeamKimFood
+> > 
 > > > http://www.yorijolly.shop/
+> >  
 >	>	> http://192.168.0.37:3000/
 
 #### 2. 프로젝트 중간 발표 및 최종 발표
@@ -61,7 +65,7 @@
  
 > 2월 02일(금) 5교시 –팀장
 > > (1) “ChatGPT4 를 활용한 자바웹 프로젝트”
-> > -	PPT 문서에 각자 1개씩 프로젝트 작업시 ChatGPT를 활용한 사례를 Prompt와 답변 내용을 한 슬라이드씩 넣기
+> > PPT 문서에 각자 1개씩 프로젝트 작업시 ChatGPT를 활용한 사례를 Prompt와 답변 내용을 한 슬라이드씩 넣기
 > >
 > > (2) 2가지 프로세스로 작업하기 – PPT 발표 문서, GitHub
 > > (3) GitHub 메인(README.md)에 프로젝트 주제와  개발환경(가장 중요), 설치할 파일(링크) 포함되게 작성하기
